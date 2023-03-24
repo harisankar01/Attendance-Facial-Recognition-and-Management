@@ -1,0 +1,3 @@
+[submodule "Attendance-app"]
+	path = Attendance-app
+	url = https://github.com/harisankar01/Attendance-app
